@@ -1,0 +1,18 @@
+{
+  "provider": "gemini",
+  "openai_api_key": "",
+  "gemini_api_key": "AQ.Ab8RN6I5QmoAxgHSoqB5OQx4I-H75des-97Q7LBAU12xIcyJgw",
+  "anthropic_api_key": "",
+  "llama_api_key": "fdb12964f8f74be3809a9d2be8dcd767",
+  "theme": "dark",
+  "hotkey": "ctrl+shift+s",
+  "opacity": 0.95,
+  "always_on_top": true,
+  "auto_analyze": true,
+  "model": {
+    "openai": "gpt-4o",
+    "gemini": "gemini-flash-latest",
+    "anthropic": "claude-3-5-sonnet-20241022",
+    "llama": "llama-4-scout-17b-16e-instruct"
+  }
+}
